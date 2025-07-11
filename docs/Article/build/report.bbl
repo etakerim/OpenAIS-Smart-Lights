@@ -1,0 +1,522 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{imam_experimental_2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2215e787e889cd9aba7dfba51fad3d03}{%
+           family={Imam},
+           familyi={I\bibinitperiod},
+           given={M.\bibnamedelimi H.\bibnamedelimi Toufiq},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=492201f68ab3aa1aacf8d1ea0097c47e}{%
+           family={Afshari},
+           familyi={A\bibinitperiod},
+           given={Sina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=56e5a1ab04bb7cd013b06cb72f73e1c7}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Sandipan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ca7a53b85b20152b87393de7676e8a25}
+      \strng{fullhash}{ca7a53b85b20152b87393de7676e8a25}
+      \strng{bibnamehash}{ca7a53b85b20152b87393de7676e8a25}
+      \strng{authorbibnamehash}{ca7a53b85b20152b87393de7676e8a25}
+      \strng{authornamehash}{ca7a53b85b20152b87393de7676e8a25}
+      \strng{authorfullhash}{ca7a53b85b20152b87393de7676e8a25}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{10}
+      \field{title}{An experimental survey of feedback control methodologies for advanced lighting systems}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{130}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{600\bibrangedash 612}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2016.08.088
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778816307976
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778816307976
+      \endverb
+      \keyw{Daylight harvesting,Daylong experiment,Experimental survey,Feedback control,Hierarchical optimization,Polychromatic LED sources,Smart lighting,Spectral optimization}
+    \endentry
+    \entry{wen_intelligent_2018}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=d73d58959c6462bb8f383db9446965ce}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=56e5a1ab04bb7cd013b06cb72f73e1c7}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Sandipan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \strng{fullhash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \strng{bibnamehash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \strng{editorbibnamehash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \strng{editornamehash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \strng{editorfullhash}{e697cceb3ee437c4a4247bc0f24aee14}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-319-68461-1 978-3-319-68462-8}
+      \field{series}{Advances in {Industrial} {Control}}
+      \field{title}{Intelligent {Building} {Control} {Systems}}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-319-68462-8
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-319-68462-8
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-319-68462-8
+      \endverb
+    \endentry
+    \entry{cristea_distributed_2011}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=bd47f27f2a14c6aa85cbb50910c3faa5}{%
+           family={Cristea},
+           familyi={C\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8fb3fd990731f2faf68235c18b131e84}{%
+           family={Pop},
+           familyi={P\bibinitperiod},
+           given={Florin},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3735b23f13a7cc797656ddb4d42a9ff6}{%
+           family={Dobre},
+           familyi={D\bibinitperiod},
+           given={Ciprian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=30541e412c18ae976a84014ed4c6db57}{%
+           family={Costan},
+           familyi={C\bibinitperiod},
+           given={Alexandru},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f916e0a540f5e3baca55eab21932044f}
+      \strng{fullhash}{f916e0a540f5e3baca55eab21932044f}
+      \strng{bibnamehash}{f916e0a540f5e3baca55eab21932044f}
+      \strng{authorbibnamehash}{f916e0a540f5e3baca55eab21932044f}
+      \strng{authornamehash}{f916e0a540f5e3baca55eab21932044f}
+      \strng{authorfullhash}{f916e0a540f5e3baca55eab21932044f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Reasoning in {Event}-{Based} {Distributed} {Systems}}
+      \field{isbn}{978-3-642-19724-6}
+      \field{series}{Studies in {Computational} {Intelligence}}
+      \field{title}{Distributed {Architectures} for {Event}-{Based} {Systems}}
+      \field{year}{2011}
+      \field{pages}{11\bibrangedash 45}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/978-3-642-19724-6_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-19724-6_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-19724-6_2
+      \endverb
+      \keyw{Complex Event Processing,Composite Event,Event Processing,Multiagent System,Primitive Event}
+    \endentry
+    \entry{farias_control_2013}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=0983153aa321029aca557bea49a7d5d9}{%
+           family={Farias},
+           familyi={F\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=869bb7e23bfc7b7a65e28bc5d4905607}{%
+           family={Pirmez},
+           familyi={P\bibinitperiod},
+           given={Luci},
+           giveni={L\bibinitperiod}}}%
+        {{hash=36f2bc28cb20897daac98a532eb3db29}{%
+           family={Delicato},
+           familyi={D\bibinitperiod},
+           given={Flávia\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7276e8003c40db0aba80e5400e91536c}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Henrique},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0580c91942924d65646f3ac8e4a8d99b}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Igor\bibnamedelimb L.\bibnamedelimi dos},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=18b10b76536561e904e4dec10c2129e7}{%
+           family={Carmo},
+           familyi={C\bibinitperiod},
+           given={Luiz\bibnamedelima F.R.C.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \strng{fullhash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \strng{bibnamehash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \strng{authorbibnamehash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \strng{authornamehash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \strng{authorfullhash}{db89fec4a2bc8eac1f98179b747cba8a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 {IEEE} 10th {International} {Conference} on {Ubiquitous} {Intelligence} and {Computing} and 2013 {IEEE} 10th {International} {Conference} on {Autonomic} and {Trusted} {Computing}}
+      \field{month}{12}
+      \field{title}{A {Control} and {Decision} {System} for {Smart} {Buildings}}
+      \field{year}{2013}
+      \field{pages}{254\bibrangedash 261}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/UIC-ATC.2013.108
+      \endverb
+      \keyw{Conferences,Energy Efficiency,Smart Buildings,WSAN}
+    \endentry
+    \entry{tragos_iot_2015}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=6ae616d72943d8f4fa9a70db56dee61b}{%
+           family={Tragos},
+           familyi={T\bibinitperiod},
+           given={Elias\bibnamedelima Z.},
+           giveni={E\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=ac64dd1ea2cbbe7acc5604edf714ede5}{%
+           family={Foti},
+           familyi={F\bibinitperiod},
+           given={Magda},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4ce95c663c94e6e9f38ac9e6fc7574d3}{%
+           family={Surligas},
+           familyi={S\bibinitperiod},
+           given={Manolis},
+           giveni={M\bibinitperiod}}}%
+        {{hash=77a16dcfe740bfbf0e8558e3ec122be4}{%
+           family={Lambropoulos},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ddd0447ffe54a6b10df28687bd7c3a8c}{%
+           family={Pournaras},
+           familyi={P\bibinitperiod},
+           given={Stelios},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b65d75f1f644c9c289567865c8af3d0d}{%
+           family={Papadakis},
+           familyi={P\bibinitperiod},
+           given={Stefanos},
+           giveni={S\bibinitperiod}}}%
+        {{hash=752bb1fa05b6a4c7e63ad5399703f3ed}{%
+           family={Angelakis},
+           familyi={A\bibinitperiod},
+           given={Vangelis},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f5e048f2ed9ab98b22e211214485b07}
+      \strng{fullhash}{0f5e048f2ed9ab98b22e211214485b07}
+      \strng{bibnamehash}{0f5e048f2ed9ab98b22e211214485b07}
+      \strng{authorbibnamehash}{0f5e048f2ed9ab98b22e211214485b07}
+      \strng{authornamehash}{0f5e048f2ed9ab98b22e211214485b07}
+      \strng{authorfullhash}{0f5e048f2ed9ab98b22e211214485b07}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 {IEEE} {International} {Conference} on {Communication} {Workshop} ({ICCW})}
+      \field{month}{6}
+      \field{note}{ISSN: 2164-7038}
+      \field{title}{An {IoT} based intelligent building management system for ambient assisted living}
+      \field{year}{2015}
+      \field{pages}{246\bibrangedash 252}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICCW.2015.7247186
+      \endverb
+      \keyw{Artificial intelligence,Automation,Buildings,Quality of service,Reliability,Security,Sensors}
+    \endentry
+    \entry{rerum}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=1a6b0fd82d2363385b244b0799f142f9}{%
+           family={Tragos},
+           familyi={T\bibinitperiod},
+           given={Elias\bibnamedelimb Z.\bibnamedelimi et.\bibnamedelimi al.},
+           giveni={E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a6b0fd82d2363385b244b0799f142f9}
+      \strng{fullhash}{1a6b0fd82d2363385b244b0799f142f9}
+      \strng{bibnamehash}{1a6b0fd82d2363385b244b0799f142f9}
+      \strng{authorbibnamehash}{1a6b0fd82d2363385b244b0799f142f9}
+      \strng{authornamehash}{1a6b0fd82d2363385b244b0799f142f9}
+      \strng{authorfullhash}{1a6b0fd82d2363385b244b0799f142f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE International Conference on Pervasive Computing and Communication Workshops (PERCOM WORKSHOPS)}
+      \field{title}{Enabling reliable and secure IoT-based smart city applications}
+      \field{year}{2014}
+      \field{pages}{111\bibrangedash 116}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PerComW.2014.6815175
+      \endverb
+    \endentry
+    \entry{openais}{report}{}
+      \list{publisher}{1}{%
+        {OpenAIS Consortium}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{{OpenAIS - Open Architectures for Intelligent Solid State Lighting Systems}}
+      \field{type}{techreport}
+      \field{year}{2020}
+      \field{pages}{200}
+      \range{pages}{1}
+    \endentry
+    \entry{horizon2020}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Open {Architectures} for {Intelligent} {Solid} {State} {Lighting} {Systems} {|} {OpenAIS} {Project} {|} {Fact} {Sheet} {|} {H2020} {|} {CORDIS} {|} {European} {Commission}}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cordis.europa.eu/project/id/644332
+      \endverb
+      \verb{url}
+      \verb https://cordis.europa.eu/project/id/644332
+      \endverb
+    \endentry
+    \entry{iol}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1f03463b003f5d0a5775e16893b7aa12}{%
+           family={Werff},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=b35d2b35fa2193455fd16662418f9290}{%
+           family={Essen},
+           familyi={E\bibinitperiod},
+           given={Harm},
+           giveni={H\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=6613132d92bdc8bf9c48be853d55702f}{%
+           family={Eggen},
+           familyi={E\bibinitperiod},
+           given={Berry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \strng{fullhash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \strng{bibnamehash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \strng{authorbibnamehash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \strng{authornamehash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \strng{authorfullhash}{c2fb361bbfc2ac87a96594a5363b3a1f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2452-414X}
+      \field{journaltitle}{Journal of Industrial Information Integration}
+      \field{month}{9}
+      \field{title}{The impact of the internet of lighting on the office lighting value network}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{29\bibrangedash 40}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.jii.2017.03.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2452414X16300851
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2452414X16300851
+      \endverb
+      \keyw{Impact analysis,Internet of Lighting,Internet of Things,Office lighting,Value chain,Value network}
+    \endentry
+    \entry{rust-iot}{inproceedings}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{On {Utilizing} {Rust} {Programming} {Language} for {Internet} of {Things}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/CICN.2017.8319363
+      \endverb
+    \endentry
+    \entry{rust-adoption}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1d36cccbb51969037223fe4d5eedc20d}{%
+           family={Davison},
+           familyi={D\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{1d36cccbb51969037223fe4d5eedc20d}
+      \strng{fullhash}{1d36cccbb51969037223fe4d5eedc20d}
+      \strng{bibnamehash}{1d36cccbb51969037223fe4d5eedc20d}
+      \strng{authorbibnamehash}{1d36cccbb51969037223fe4d5eedc20d}
+      \strng{authornamehash}{1d36cccbb51969037223fe4d5eedc20d}
+      \strng{authorfullhash}{1d36cccbb51969037223fe4d5eedc20d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{The New Stack}
+      \field{month}{11}
+      \field{shorttitle}{Adoption of {Rust}}
+      \field{title}{Adoption of {Rust}: {Who}'s {Using} {It} and {How}}
+      \field{urlday}{3}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://thenewstack.io/adoption-of-rust-whos-using-it-and-how/
+      \endverb
+      \verb{url}
+      \verb https://thenewstack.io/adoption-of-rust-whos-using-it-and-how/
+      \endverb
+    \endentry
+    \entry{sahu_dali_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f38419234005a385dcac3c7a08867e7a}{%
+           family={Sahu},
+           familyi={S\bibinitperiod},
+           given={Ritankar},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f38419234005a385dcac3c7a08867e7a}
+      \strng{fullhash}{f38419234005a385dcac3c7a08867e7a}
+      \strng{bibnamehash}{f38419234005a385dcac3c7a08867e7a}
+      \strng{authorbibnamehash}{f38419234005a385dcac3c7a08867e7a}
+      \strng{authornamehash}{f38419234005a385dcac3c7a08867e7a}
+      \strng{authorfullhash}{f38419234005a385dcac3c7a08867e7a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{title}{{DALI} {Protocol} and {Interface} with {DALI} {Devices} from {External} {Master} {Controller}}
+      \field{year}{2019}
+    \endentry
+    \entry{dali}{report}{}
+      \list{publisher}{1}{%
+        {DALI Alliance}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{{IEC 62386-101:2022}}
+      \field{type}{techreport}
+      \field{year}{2022}
+      \field{pages}{128}
+      \range{pages}{1}
+    \endentry
+    \entry{openais-pilot}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LED professional - LED Lighting Technology, Application Magazine}
+      \field{title}{User {Evaluation} of the {OpenAIS} {Pilot} {Installation}}
+      \field{urlday}{3}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.led-professional.com/resources-1/articles/user-evaluation-of-the-openais-pilot-installation
+      \endverb
+      \verb{url}
+      \verb https://www.led-professional.com/resources-1/articles/user-evaluation-of-the-openais-pilot-installation
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

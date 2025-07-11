@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'build/report.blg'
+[71] biber:340> INFO - === So dec  3, 2022, 22:47:21
+[86] Biber.pm:418> INFO - Reading 'build/report.bcf'
+[147] Biber.pm:972> INFO - Found 14 citekeys in bib section 0
+[158] Biber.pm:4383> INFO - Processing section 0
+[167] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[168] bibtex.pm:1713> INFO - LaTeX decoding ...
+[188] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[296] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[296] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[296] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[296] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[308] bbl.pm:654> INFO - Writing 'build/report.bbl' with encoding 'UTF-8'
+[314] bbl.pm:757> INFO - Output to build/report.bbl
+[314] Biber.pm:130> WARN - ISBN '978-3-319-68461-1 978-3-319-68462-8' in entry 'wen_intelligent_2018' is invalid - run biber with '--validate_datamodel' for details.
+[314] Biber.pm:130> WARN - legacy month field 'July' in entry 'openais' is not an integer - this will probably not sort properly.
+[314] Biber.pm:130> WARN - legacy month field 'November' in entry 'dali' is not an integer - this will probably not sort properly.
+[314] Biber.pm:132> INFO - WARNINGS: 3

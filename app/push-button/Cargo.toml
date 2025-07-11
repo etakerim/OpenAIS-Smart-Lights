@@ -1,0 +1,12 @@
+# https://doc.rust-lang.org/cargo/reference/manifest.html
+[package]
+name = "openais_switch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fltk = "^1.2"
+coap = "0.12"
+coap-lite = "0.9.1"
+cbor-data = "0.8.15"
+tokio = { version = "1", features = ["full"] }

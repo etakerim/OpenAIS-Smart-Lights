@@ -1,0 +1,66 @@
+\documentclass[11pt,english,a4paper,twoside]{article}
+% \documentclass[11pt,slovak,a4paper,twoside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[main=english]{babel}
+\usepackage{url}
+\usepackage[nottoc]{tocbibind}
+\usepackage{ifthen}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\usepackage{listings}
+
+\usepackage[style=iso-numeric,abbreviate=true]{biblatex}
+\usepackage{csquotes}
+\addbibresource{bib.bib} 
+
+\newcommand{\magnf}{.65}
+\newcommand{\codesize}{\footnotesize}
+\newcommand{\lsti}{\ajset\lstinline[basicstyle=\fontsize{10}{12}\selectfont]}
+\newcommand{\emp}[1]{\emph{#1}}
+\newcommand{\ffe}[1]{\textsf{#1}}
+
+\pagenumbering{gobble}
+\newcommand{\reporttitle}{Distribution of Components in Event-Driven Sensor Networks} 
+
+\pagestyle{myheadings}
+\markboth{\reporttitle}{Software Architecture 2022/23, FIIT STU}
+
+\title{\reporttitle}
+\author{Bc. Miroslav Hájek} 
+\date{Faculty of Informatics and Information Technologies\\
+      Slovak University of Technology in Bratislava\\[6pt]
+      October 6, 2022}
+
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Project objective}
+The sensors are widely used in enviroment monitoring be it in scientific instruments, factories, logistics or inside modern households.  
+Their purpose is not only to capture the perceived conditions, but also to process them into meaningful events and sustain themselves in remote locations. These events are supposed to be delivered wherever they are needed which is provided by 
+appropriate messaging pattern in the network. In the majority of control systems actuators act upon the events, messages are
+logged and visualized for the further analysis.
+
+The architecture of these networks and tasks of hardware devices within them have to be devised in such a way as to the best utilization of 
+resources on the each step in the chain. Nodes are varied in their core responsibilities and in their computing power, 
+but not every component of the system is fixed in place. Depending on the circumstances and the specific application 
+it is better to distribute the components towards the edge of the network or in other cases more centralized approach is in order.
+
+We will focus on the microscopic and on the macroscopic overview of the chosen intranet intelligent 
+building control subsystem and its decomposition onto the distributed infrastructure of the sensor-actuator network. 
+The subsystem to be disected will be either energy efficient lighting or HVAC.
+
+The major event-driven messaging architectures (e.g. bus, broker, n-layers) and deployment of components there in will 
+be compared in accordance with the layout of components divided amongst nodes (e.g. sensor, actuator, gateway, monitoring,
+storage, operator station). The expected results should contain basic primer on designing simple control system based 
+on the sensor network. The comparison will consist of various views in UML of the prominent messaging architectural styles and 
+allotment of the components onto the nodes.
+
+\nocite{*}
+\printbibliography
+
+\end{document}
+
